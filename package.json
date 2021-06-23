@@ -1,0 +1,24 @@
+{
+  "name": "api-atendimentos",
+  "version": "1.0.0",
+  "description": "Api usando Express e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "API-Atendimentos"
+  },
+  "author": "Emanuel Facundo",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
