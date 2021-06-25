@@ -1,3 +1,6 @@
+# Images
+assets/*.jpg
+
 # Logs
 logs
 *.log
